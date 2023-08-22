@@ -13,9 +13,12 @@ body{
 }
 
 #resultado{
-    background-color: #cccccc;
-    width: 207px;
+    background-color: #efefef;
+    width: 224px;
     height: 30px;
+    margin-left: 5px;
+    padding-right: 3px;
+    font-family: 'Poppins', sans-serif;
     font-size: 25px;
     color: black;
     text-align: right;
@@ -30,11 +33,6 @@ body{
     padding: 15px;
     justify-content: center;
 
-}
-.display{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
 }
 
 .botao{  
